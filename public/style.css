@@ -1,0 +1,18 @@
+.top-img{
+    height: 300px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+ul li{
+    margin-right: 10px;
+}
+.colorDiv{
+    width: 380px;
+    height: 250px;
+    border: 1px solid gray;
+    text-align: center;
+    line-height: 250px;
+    color: #fff;
+}
